@@ -1,6 +1,6 @@
 # 🧪 Replit Clone — Code, Run, Share
 
-## Not just the library imports, I have coded terminal like CodeSandbox, preview like replit, Editor like VS code
+## Not just the another replit clone, I have coded terminal like CodeSandbox, preview like replit, Editor like VS code
 
 A powerful web-based code runner and collaboration tool inspired by Replit. Write code, run it in real-time, and get a live preview link instantly — all in your browser.
 
